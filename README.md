@@ -16,7 +16,9 @@
 [Winutil](https://github.com/ChrisTitusTech/winutil)
 1. Run Terminal as Admin
 2. Run `iwr -useb https://christitus.com/win | iex`
+
 **First re-install winget in the config tab because of Windows 11 bug**
+
 3. Go to Tweaks tab and select `Desktop` in the Recommended Selections and then also tick remove ondrive and hit `Run Tweaks`.
 4. Then go to config tab and select `All .Net Framework (2,3,4)` and hit `Install Features`.
 
