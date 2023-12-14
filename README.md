@@ -53,7 +53,6 @@
 
     * Steam: `Valve.Steam`
     * Heroic Launcher: `HeroicGamesLauncher.HeroicGamesLauncher`
-
         **If you'd prefer epic and gog launchers separately -**
     * GOG: `GOG.Galaxy`
     * Epic Games: `EpicGames.EpicGamesLauncher`
