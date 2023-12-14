@@ -28,10 +28,10 @@
 2. Start a command with `winget install ` and then add the following of your choice -
 
     **Browser**
-    
-    1. Mercury (Firefox based browser): `Alex313031.Mercury`
-    2. Thorium (Chrome based browser): `Alex313031.Thorium.AVX2`
-    3. Firefox: `Mozilla.Firefox`
-    4. Chrome: `Google.Chrome`
-    5. Vivaldi: `VivaldiTechnologies.Vivaldi`
-    6. Brave: `Brave.Brave`
+
+    * Mercury (Firefox based browser): `Alex313031.Mercury`
+    * Thorium (Chrome based browser): `Alex313031.Thorium.AVX2`
+    * Firefox: `Mozilla.Firefox`
+    * Chrome: `Google.Chrome`
+    * Vivaldi: `VivaldiTechnologies.Vivaldi`
+    * Brave: `Brave.Brave`
