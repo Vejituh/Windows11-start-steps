@@ -51,6 +51,13 @@
     * Teamviewer Host: `TeamViewer.TeamViewer.Host`
     * Jellyfin MPV Shim: `IanWalton.JellyfinMPVShim`
     * Notion: `Notion.Notion`
+    * Logitech G Hub: `Logitech.GHUB`
+    * GameSir Nexus: `9PMJKF5NSTDR`
+    * MKVToolNix: `MoritzBunkus.MKVToolNix`
+    * Steelseries GG: `SteelSeries.GG`
+    * Qbittorrent: `qBittorrent.qBittorrent`
+    * ProtonVPN: `ProtonTechnologies.ProtonVPN`
+    * FFmpeg: `Gyan.FFmpeg`
 
     **Gaming**
 
@@ -67,6 +74,10 @@
     Example line without browser, Teamviewer, Jellyfin and Heroic Launcher -
 
     `winget install Discord.Discord Spotify.Spotify Daum.PotPlayer Klocman.BulkCrapUninstaller Valve.Steam GOG.Galaxy EpicGames.EpicGamesLauncher ElectronicArts.EADesktop Ubisoft.Connect`
+
+    What I use -
+
+    `winget install Alex313031.Mercury Discord.Discord Spotify.Spotify Daum.PotPlayer Klocman.BulkCrapUninstaller Valve.Steam GOG.Galaxy EpicGames.EpicGamesLauncher ElectronicArts.EADesktop Ubisoft.Connect TeamViewer.TeamViewer.Host IanWalton.JellyfinMPVShim Notion.Notion Logitech.GHUB 9PMJKF5NSTDR MoritzBunkus.MKVToolNix Gyan.FFmpeg Python.Python.3.12 Microsoft.PowerToys ProtonTechnologies.ProtonVPN qBittorrent.qBittorrent SteelSeries.GG`
 
     **Make sure to check task manager > start up items > and disable everything except `SecurityHealthSystray.exe` and any headset software**
 
