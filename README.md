@@ -13,7 +13,7 @@
 
 ## Winutil
 
-[Winutil](https://github.com/ChrisTitusTech/winutil)
+[Winutil Github Repo](https://github.com/ChrisTitusTech/winutil)
 1. Run Terminal as Admin
 2. Run `iwr -useb https://christitus.com/win | iex`
 
