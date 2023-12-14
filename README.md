@@ -48,6 +48,7 @@
     * Teamviewer: `TeamViewer.TeamViewer`
     * Teamviewer Host: `TeamViewer.TeamViewer.Host`
     * Jellyfin MPV Shim: `IanWalton.JellyfinMPVShim`
+    * Notion: `Notion.Notion`
 
     **Gaming**
 
