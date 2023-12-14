@@ -26,7 +26,9 @@
 
 1. Open a terminal
 2. Start a command with `winget install ` and then add the following of your choice -
+
     **Browser**
+    
     1. Mercury (Firefox based browser): `Alex313031.Mercury`
     2. Thorium (Chrome based browser): `Alex313031.Thorium.AVX2`
     3. Firefox: `Mozilla.Firefox`
