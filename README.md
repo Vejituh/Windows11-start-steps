@@ -38,5 +38,13 @@
 
     **Communications**
 
-    * Discord `Discord.Discord`
-    * Spotify `Spotify.Spotify`
+    * Discord: `Discord.Discord`
+    * Spotify: `Spotify.Spotify`
+
+    **Misc**
+
+    * PotPlayer (Media Player): `Daum.PotPlayer`
+    * Bulk Crap Uninstaller: `Klocman.BulkCrapUninstaller`
+    * Teamviewer: `TeamViewer.TeamViewer`
+    * Teamviewer Host: `TeamViewer.TeamViewer.Host`
+    * Jellyfin MPV Shim: `IanWalton.JellyfinMPVShim`
