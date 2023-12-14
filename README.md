@@ -57,3 +57,9 @@
         **If you'd prefer epic and gog launchers separately -**
     * GOG: `GOG.Galaxy`
     * Epic Games: `EpicGames.EpicGamesLauncher`
+    * EA App: `ElectronicArts.EADesktop`
+    * Ubisoft Connect: `Ubisoft.Connect`
+
+    Example line without browser, Teamviewer, Jellyfin and Heroic Launcher -
+
+    `winget install Discord.Discord Spotify.Spotify Daum.PotPlayer Klocman.BulkCrapUninstaller Valve.Steam GOG.Galaxy EpicGames.EpicGamesLauncher ElectronicArts.EADesktop Ubisoft.Connect`
