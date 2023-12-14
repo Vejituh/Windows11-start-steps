@@ -35,3 +35,8 @@
     * Chrome: `Google.Chrome`
     * Vivaldi: `VivaldiTechnologies.Vivaldi`
     * Brave: `Brave.Brave`
+
+    **Communications**
+
+    * Discord `Discord.Discord`
+    * Spotify `Spotify.Spotify`
