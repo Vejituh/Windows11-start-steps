@@ -1,6 +1,7 @@
 # First Boot
 
 **If explorer crashed on first boot, use task manager to end and restart explorer.exe**
+
 **Install any network drivers if needed before hand**
 1. Run windows updates and restart untill all are installed.
 2. Run any driver updates.
