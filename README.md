@@ -10,6 +10,7 @@
     3. Mouse & Keyboard Drivers.
     4. Printer Drivers (if needed).
     5. Check if bios version needs updated.
+3. [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 # Winutil
 
