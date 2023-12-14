@@ -65,3 +65,9 @@
     Example line without browser, Teamviewer, Jellyfin and Heroic Launcher -
 
     `winget install Discord.Discord Spotify.Spotify Daum.PotPlayer Klocman.BulkCrapUninstaller Valve.Steam GOG.Galaxy EpicGames.EpicGamesLauncher ElectronicArts.EADesktop Ubisoft.Connect`
+
+    **Make sure to check task manager > start up items > and disable everything except `SecurityHealthSystray.exe` and any headset software**
+
+### Check for app updates
+
+To check for updates on winget, open a terminal and put in `winget update --all`
