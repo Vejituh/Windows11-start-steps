@@ -60,7 +60,7 @@
     * Epic Games: `EpicGames.EpicGamesLauncher`
     * EA App: `ElectronicArts.EADesktop`
     * Ubisoft Connect: `Ubisoft.Connect`
-    [Steam-Superheater] (https://github.com/fgsfds/Steam-Superheater)
+    * [Steam-Superheater](https://github.com/fgsfds/Steam-Superheater)
 
     Example line without browser, Teamviewer, Jellyfin and Heroic Launcher -
 
