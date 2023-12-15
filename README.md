@@ -75,7 +75,7 @@
 
     What I use -
 
-    `winget install Alex313031.Mercury Discord.Discord Spotify.Spotify Daum.PotPlayer Klocman.BulkCrapUninstaller Valve.Steam GOG.Galaxy EpicGames.EpicGamesLauncher ElectronicArts.EADesktop Ubisoft.Connect TeamViewer.TeamViewer.Host IanWalton.JellyfinMPVShim Notion.Notion Logitech.GHUB 9PMJKF5NSTDR MoritzBunkus.MKVToolNix Gyan.FFmpeg Python.Python.3.12 Microsoft.PowerToys ProtonTechnologies.ProtonVPN qBittorrent.qBittorrent SteelSeries.GG`
+    `winget install Mozilla.Firefox Discord.Discord Spotify.Spotify Daum.PotPlayer Klocman.BulkCrapUninstaller Valve.Steam GOG.Galaxy EpicGames.EpicGamesLauncher ElectronicArts.EADesktop Ubisoft.Connect TeamViewer.TeamViewer.Host IanWalton.JellyfinMPVShim Notion.Notion Logitech.GHUB 9PMJKF5NSTDR MoritzBunkus.MKVToolNix Gyan.FFmpeg Python.Python.3.12 Microsoft.PowerToys ProtonTechnologies.ProtonVPN qBittorrent.qBittorrent SteelSeries.GG`
 
     **Make sure to check task manager > start up items > and disable everything except `SecurityHealthSystray.exe` and any headset software**
 
