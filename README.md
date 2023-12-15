@@ -31,8 +31,6 @@
 
     **Browser**
 
-    * Mercury (Firefox based browser): `Alex313031.Mercury`
-    * Thorium (Chrome based browser): `Alex313031.Thorium.AVX2`
     * Firefox: `Mozilla.Firefox`
     * Chrome: `Google.Chrome`
     * Vivaldi: `VivaldiTechnologies.Vivaldi`
